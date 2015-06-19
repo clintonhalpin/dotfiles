@@ -1,0 +1,24 @@
+[submodule "nerdtree"]
+	path = vim/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "vim-colorschemes"]
+	path = vim/bundle/vim-colorschemes
+	url = git@github.com:flazz/vim-colorschemes.git
+[submodule "vim-javascript"]
+	path = vim/bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "vim-multiple-cursors"]
+	path = vim/bundle/vim-multiple-cursors
+	url = git@github.com:terryma/vim-multiple-cursors.git
+[submodule "bundle/ctrlp.vim"]
+	path = vim/bundle/bundle/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "nerdcommenter"]
+	path = vim/bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "ctrlp.vim"]
+	path = vim/bundle/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "vim-airline"]
+	path = vim/bundle/vim-airline
+	url = https://github.com/bling/vim-airline
