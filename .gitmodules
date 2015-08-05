@@ -22,3 +22,7 @@
 [submodule "vim-airline"]
 	path = vim/bundle/vim-airline
 	url = https://github.com/bling/vim-airline
+[submodule "vim-airlineish"]
+	path = vim/bundle/vim-airlineish
+	url = https://github.com/paranoida/vim-airlineish.git 
+
